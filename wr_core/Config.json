@@ -1,0 +1,26 @@
+{
+  "defaultlang": "Ru",
+
+  "Whitelist": false,
+
+  "RespawnTime": 25000, // 25 секунд в миллисекундах
+  "RespawnKey": "0xDFF812F9",
+  "RespawnCoords": [ -353.08, 752.11, 116.0, 321.76 ], // X, Y, Z, Heading
+
+  "HeadId": true,
+  "HeadIdDistance": 15,
+  "ModeKey": true,
+  "KeyShowIds": "0x8CC9CD42", // Нажмите X 
+
+  "ActiveEagleEye": true,
+  "ActiveDeadEye": false,
+
+  //ФУНКЦИЯ ОТКЛЮЧЕНА Пожалуйста, подождите Milestone 4
+  "ActiveDRP": false,
+  "DiscordAppId": "null",
+  "RichPresenceText": "Test",
+  "DiscordRichPresenceAsset": "logo_name",
+  "DiscordRichPresenceAssetText": "Этот сервер работает с DIASANT COMP.",
+  "DiscordRichPresenceAssetSmall": "logo_name",
+  "DiscordRichPresenceAssetSmallText": "wildrhodes.cf"
+}
